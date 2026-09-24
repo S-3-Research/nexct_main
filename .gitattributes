@@ -1,0 +1,2 @@
+# Preserve browser archives byte-for-byte and omit encoded payload diffs.
+*.mhtml binary
